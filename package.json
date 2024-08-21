@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@rainprotocol/rain-protocol": "github:rainprotocol/rain-protocol#d5e2e485843905707b8fda1bc6bac43ae9d242a7",
-    "@cmfcmf/docusaurus-search-local": "0.10.0",
+    "@cmfcmf/docusaurus-search-local": "1.1.0",
     "@docusaurus/module-type-aliases": "2.0.0-beta.17",
     "@tsconfig/docusaurus": "^1.0.4",
     "hardhat": "^2.9.9",
